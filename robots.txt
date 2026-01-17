@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sanjana-portfolio-5shs.onrender.com/sitemap.xml
